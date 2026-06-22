@@ -3,10 +3,11 @@
 A collection of Machine Learning projects and practice datasets.
 
 ## Project 01: Insurance Cost Prediction
+## Project 02: Heart Disease Prediction
 
 ### Objective
 
-Analyze factors affecting medical insurance charges and prepare the dataset for machine learning.
+Analyze factors affecting data and prepare the dataset for machine learning.
 
 ### Skills Practiced
 
@@ -20,11 +21,7 @@ Analyze factors affecting medical insurance charges and prepare the dataset for 
 ### Dataset
 
 Insurance Cost Prediction Dataset
-
-### Files
-
-* `Insurance.ipynb` - Complete notebook
-* `insurance.csv` - Dataset
+Heart Disease Dataset
 
 ### Status
 
