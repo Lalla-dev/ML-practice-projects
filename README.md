@@ -4,6 +4,7 @@ A collection of Machine Learning projects and practice datasets.
 
 ## Project 01: Insurance Cost Prediction
 ## Project 02: Heart Disease Prediction
+## Project 03: Flight Price Prediction
 
 ### Objective
 
