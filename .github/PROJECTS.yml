@@ -1,0 +1,44 @@
+portfolio:
+  owner: Lalla-dev
+  projects:
+    - name: NutriScan-AI
+      category: Full-Stack AI
+      description: Nutritional tracking with CNN
+      languages: [Python]
+      status: Active
+      featured: true
+    
+    - name: Rerir
+      category: Enterprise AI/CRM
+      description: Relationship Intelligence Platform
+      languages: [TypeScript, Python]
+      status: Active
+      featured: true
+    
+    - name: ML-practice-projects
+      category: Learning & Practice
+      description: ML journey documentation
+      languages: [Jupyter Notebook]
+      status: Active
+      featured: false
+    
+    - name: python-dsa-practice
+      category: Algorithms & DSA
+      description: Competitive programming solutions
+      languages: [Python]
+      status: Active
+      featured: false
+    
+    - name: mlops-internship-assignment
+      category: MLOps & Production
+      description: ML operations and deployment
+      languages: [Jupyter Notebook, Python]
+      status: Completed
+      featured: false
+    
+    - name: titanic-ml-project
+      category: Learning & Practice
+      description: First ML project - Logistic Regression
+      languages: [Jupyter Notebook]
+      status: Completed
+      featured: false
